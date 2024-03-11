@@ -2,17 +2,17 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-# [Phatchara Soroschokchai]'s GitHub Profile
+# Folk's GitHub Profile
 
 ## About Me
 
-I am a passionate Financial Engineer and Data Scientist with expertise in various tools and technologies.
+I am a passionate Financial Engineer and Data Science with expertise in various tools and technologies.
 
 ## Contact Me
 
 Feel free to reach out to me via:
 
-- LinkedIn: [LinkedIn Profile URL]
+- LinkedIn: [Phatchara Soroschokchai](https://www.linkedin.com/in/phatchara-soroschokchai-589399294/)
 - Email: phatchara.soros@gmail.com
 
 ## Skills
@@ -42,6 +42,10 @@ Here are some snapshots from my projects:
 
 ![Project 2](images/project2.png)
 *Description of Project 2*
+
+## Education
+- Bachelor of Science and Technology, University of the Thai Chamber of Commerce
+- Field: Financial Engineering (GPAX 3.98)
 
 ## Styles
 
