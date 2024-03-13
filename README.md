@@ -20,28 +20,14 @@ Feel free to reach out to me via:
 - 💸 Field: Financial Engineering (GPAX 3.98)
 
 ## Skills
-- **Data Analysis and Visualization:** Google Sheets, Excel (Pivot, Power Pivot, Power Query), Power BI, Tableau, Looker Studio
+- **Data Visualization:** Google Sheets, Excel (Pivot, Power Pivot, Power Query), Power BI, Tableau, Looker Studio
 - **Machine Learning and Data Mining:** RapidMiner, Python (NumPy, Pandas, Scikit-learn), R
 - **Database Management:** SQL (SQLite, SQL Server)
 - **Programming:** Python, R
 
-## Projects
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-Here are a few projects I've worked on:
-
-1. Project Name: [Description]
-   - Tools/Technologies Used: [List of tools/technologies]
-   - Link to GitHub Repository: [GitHub Repository URL]
-
-2. Project Name: [Description]
-   - Tools/Technologies Used: [List of tools/technologies]
-   - Link to GitHub Repository: [GitHub Repository URL]
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/phatchara009"><img src="https://github-readme-stats.vercel.app/api?username=phatchara009&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Aboutme-t's GitHub stats" /></a>
+## My GitHub Stats
 
 <a href="https://github.com/phatchara009" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phatchara009&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
