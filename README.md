@@ -29,13 +29,13 @@ Feel free to reach out to me via:
 
 ## Education
 - 👨‍🎓 Bachelor of Science and Technology, University of the Thai Chamber of Commerce
-- 💸 Field: Financial Engineering (GPAX 3.98)
+- 💸 Field: Financial Engineering *(GPAX 3.98)*
 
 ## Skills
 - **Data Visualization:** Google Sheets, Excel (Pivot, Power Pivot, Power Query), Power BI, Tableau, Looker Studio
-- **Machine Learning and Data Mining:** RapidMiner, Python (NumPy, Pandas, Scikit-learn), R
 - **Database Management:** SQL (SQLite, SQL Server)
 - **Programming:** Python, R
+- **Machine Learning and Data Mining:** RapidMiner, Python (NumPy, Pandas, Scikit-learn), R (Tidyverse, Caret)
 
 <div align="left"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="excel" width="40" height="40"/> 
