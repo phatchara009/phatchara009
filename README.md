@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/phatchara-soros">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="fok335.wordpress.com">
+  <a href="www.fok335.wordpress.com">
     <img src="https://img.shields.io/badge/Wordpress-008080?style=for-the-badge&logo=wordpress&logoColor=black" alt="Wordpress Badge"/>
   </a>
 </div>
